@@ -5,4 +5,7 @@ React 환경에서 테스트 툴을 공부하고 연습하기 위한 프로젝�
 ## 테스트 대상
 
 - Jest
-- React Testing Library
+
+## 테스트 방식
+
+- 통합 테스트
